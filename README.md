@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Arnab Kumar Chand
-- 👀 I’m interested in Computer Vision  
+- 👀 I’m interested in Vision Analytics, Natural Langugage Processing, Image restoration, etc.  
 - 🌱 I’m currently learning 3D Object Detection
 - 💞️ I’m looking to collaborate on multi object tracking. 
 - 📫 How to reach me - mail me at arnabchand.1311@gmail.com
