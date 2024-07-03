@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Arnab Kumar Chand
 - 
 - 📫 How to reach me - mail me at arnabchand.1311@gmail.com
-                      or ping me on  https://www.linkedin.com/in/arnab-kumar-chand/ 
+                      or ping me at https://www.linkedin.com/in/arnab-kumar-chand/ 
 
 
 <!---
