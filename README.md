@@ -13,80 +13,25 @@ I'm a passionate Machine Learning Engineer with a strong foundation in AI, Deep 
 ### 🛠 Technical Skills
 
 **Programming Languages:**
-- Python, C++, R, SQL
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white) ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=sql&logoColor=white)
 
 **Operating Systems:**
-- Linux, Windows, iOS
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white) ![iOS](https://img.shields.io/badge/-iOS-000000?logo=ios&logoColor=white)
 
-**Libraries & Frameworks:**
-- OpenCV, Pillow, Scikit-learn, Pandas, NumPy, SciPy, Matplotlib, NLTK, Spacy, Seaborn
-- Deep Learning: TensorFlow, Keras, PyTorch
-- Cloud Platforms: GCP (Vertex AI, BigQuery, AutoML), AWS (SageMaker, S3, Glue), Azure
-- GenAI: LangChain, LLaMA, Mistral, LlamaIndex, GANs, BERT, GPT-2 and 3
+**Libraries & Frameworks:** ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white)
+![Pillow](https://img.shields.io/badge/-Pillow-CC2C24?logo=pillow&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white) ![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6?logo=scipy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-0066CC?logo=matplotlib&logoColor=white) ![NLTK](https://img.shields.io/badge/-NLTK-117733?logo=nltk&logoColor=white) ![Spacy](https://img.shields.io/badge/-Spacy-09A3D5?logo=spacy&logoColor=white) ![Seaborn](https://img.shields.io/badge/-Seaborn-4A4A4A?logo=seaborn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white) ![PySpark](https://img.shields.io/badge/-PySpark-E25A1C?logo=apache-spark&logoColor=white)
+
+
+**Cloud Platforms:**
+![GCP](https://img.shields.io/badge/-GCP-4285F4?logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white)
+
+**GenAI:** 
+![LangChain](https://img.shields.io/badge/-LangChain-007ACC?logo=langchain&logoColor=white) ![LLaMA](https://img.shields.io/badge/-LLaMA-00599C?logo=llama&logoColor=white)
+![Mistral](https://img.shields.io/badge/-Mistral-000000?logo=mistral&logoColor=white) ![LlamaIndex](https://img.shields.io/badge/-LlamaIndex-FF5733?logo=llamaindex&logoColor=white)
+![GANs](https://img.shields.io/badge/-GANs-008080?logo=gans&logoColor=white) ![BERT](https://img.shields.io/badge/-BERT-3C3C3C?logo=bert&logoColor=white) ![GPT-2](https://img.shields.io/badge/-GPT--2-FF6F00?logo=gpt&logoColor=white) ![GPT-3](https://img.shields.io/badge/-GPT--3-FF6F00?logo=gpt&logoColor=white) ![Pinecone](https://img.shields.io/badge/-Pinecone-00BCFF?logo=pinecone&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?logo=elasticsearch&logoColor=white)
+
 
 **Tools:**
-- Git, Bitbucket, Docker, OpenVino, Colab, Jupyter
-
----
-
-### 📚 Education
-
-**Stevens Institute of Technology**
-- Master of Science in Machine Learning (GPA: 3.8)
-- Courses: Machine Learning, Deep Learning, Computer Vision, NLP, Data Mining, AI
-
-**Visvesvaraya Technological University**
-- Bachelor of Engineering in Telecommunications Engineering
-- Courses: Calculus, Probability & Statistics, Image Processing, Linear Algebra, C++ Programming
-
----
-
-### 💼 Work Experience
-
-**AI & Deep Learning Developer at BigCity Promotions**
-- Developed an ML module for Bud4Trade, using multi-class object recognition and CV analysis to improve retail display accuracy.
-- Optimized YOLOv4 for SKU classification in beer coolers, achieving 95.7% mAP.
-- Enhanced module efficiency by 38% through optimization, quantization, and pruning.
-
-**Associate Engineer at Xarpie Labs**
-- Improved the perception of Sophia robot by 30% through stereo matching algorithms.
-- Implemented pose estimation algorithms for fitness tracking, boosting model accuracy by 12%.
-
-**AI Scientist at Wesense.ai**
-- Developed a multi-person tracker using person detection and Re-Identification, achieving a 27% optimization.
-- Enhanced facial recognition system accuracy to 91% for edge device deployment.
-
----
-
-### 🏆 Projects, Publications & Certifications
-
-- **3D Reconstruction single and Multiple Viewpoints** (Coursera, 2024)
-- **Generative AI with Large Language Models** (Coursera, 2024)
-- **"Smart Vehicle Management Using IoV"** - International Journal of Advanced Research Trends in Engineering and Technology, 2018
-
----
-
-### 🌱 Academics
-
-**Research Project: Extracting Fine-Grained Information through Teachable Object Recognizers**
-- Deployed YOLOv5 for real-time object detection on images captured by visually impaired users via an iOS app.
-
-**Graduate Course Assistant: Human Computer Interaction**
-- Assisted in coursework design, paper grading, and facilitation of in-person tutorials.
-
----
-
-### 📫 Contact
-
-- **Email:** [achand@stevens.edu](mailto:achand@stevens.edu) | [arnabchand.1311@gmail.com](mailto:arnabchand.1311@gmail.com)
-- **LinkedIn:** [Arnab Kumar Chand](https://www.linkedin.com/in/Arnab-Kumar-Chand)
-- **GitHub:** [Arnab1311](https://github.com/Arnab1311)
-
----
-
-Thank you for visiting my profile! Feel free to reach out if you have any questions or if you'd like to collaborate on a project.
-
-<!---
-Arnab1311/Arnab1311 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![Bitbucket](https://img.shields.io/badge/-Bitbucket-0052CC?logo=bitbucket&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![OpenVino](https://img.shields.io/badge/-OpenVino-0086D3?logo=openvino&logoColor=white) ![Colab](https://img.shields.io/badge/-Colab-F9AB00?logo=google-colab&logoColor=white) ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white)
